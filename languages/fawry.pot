@@ -1,0 +1,90 @@
+# Copyright (C) 2020 Fr3on
+# This file is distributed under the same license as the Fawry Pay Payment Gateway plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fawry Pay Payment Gateway 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/fr3on/fawry-pay\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-10-31T12:52:54+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.3.0\n"
+"X-Domain: fawry-pay\n"
+
+#. Plugin Name of the plugin
+msgid "Fawry Pay Payment Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/fr3on/fawry-pay"
+msgstr ""
+
+#. Description of the plugin
+#: inc/class-wc-fawry-pay.php:26
+#: inc/class-wc-fawry-pay.php:27
+msgid "Fawry Pay for your Order with any Credit or Debit Card or through Fawry Machines"
+msgstr ""
+
+#. Author of the plugin
+msgid "Fr3on"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/fr3on"
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:25
+msgid "Fawry Pay Payment Gateway"
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:77
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:78
+msgid "Fawry Pay"
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:84
+msgid "This controls the un paid order expiry which the user created during checkout."
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:91
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:92
+msgid "Fawry Pay for your Order with any Credit or Debit Card or through Fawry Machines."
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:97
+msgid "This controls the instructions which the user sees during checkout."
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:113
+msgid "Arabic"
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:114
+msgid "English"
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:203
+msgid "Shipping"
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:235
+msgid "Awaiting fawry payment"
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:258
+#: inc/class-wc-fawry-pay.php:285
+msgid "Order #%d not found"
+msgstr ""
+
+#: inc/class-wc-fawry-pay.php:290
+msgid "Fawry payment failure"
+msgstr ""
